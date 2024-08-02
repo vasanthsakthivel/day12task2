@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+.main{
+    margin-top: 20px;
+    padding: 20px;
+}
+.header{
+    text-align: center;
+}
+.container{
+    padding: 50px;
+    border: 1px solid;
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+table{
+    font-size: 23px;
+}
+input{
+    width: 80%;
+}
+.button{
+    justify-content: space-around;
+    padding-left: 250px;
+    padding-top: 20px;
+}
